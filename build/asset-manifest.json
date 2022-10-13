@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/smkbp/static/css/main.beaca61c.chunk.css",
+    "main.js": "/smkbp/static/js/main.2edec5b1.chunk.js",
+    "main.js.map": "/smkbp/static/js/main.2edec5b1.chunk.js.map",
+    "runtime-main.js": "/smkbp/static/js/runtime-main.d1eee971.js",
+    "runtime-main.js.map": "/smkbp/static/js/runtime-main.d1eee971.js.map",
+    "static/js/2.7a0967aa.chunk.js": "/smkbp/static/js/2.7a0967aa.chunk.js",
+    "static/js/2.7a0967aa.chunk.js.map": "/smkbp/static/js/2.7a0967aa.chunk.js.map",
+    "index.html": "/smkbp/index.html",
+    "precache-manifest.6b527eaf10ebc32cc3ec5cacaf2cb83b.js": "/smkbp/precache-manifest.6b527eaf10ebc32cc3ec5cacaf2cb83b.js",
+    "service-worker.js": "/smkbp/service-worker.js",
+    "static/css/main.beaca61c.chunk.css.map": "/smkbp/static/css/main.beaca61c.chunk.css.map",
+    "static/js/2.7a0967aa.chunk.js.LICENSE.txt": "/smkbp/static/js/2.7a0967aa.chunk.js.LICENSE.txt",
+    "static/media/IllustratorBiodata.svg": "/smkbp/static/media/IllustratorBiodata.0ad866d6.svg",
+    "static/media/IllustratorFront.png": "/smkbp/static/media/IllustratorFront.5b61a38a.png",
+    "static/media/IllustratorRegister.svg": "/smkbp/static/media/IllustratorRegister.140912a7.svg",
+    "static/media/IlustratorSeleksi.svg": "/smkbp/static/media/IlustratorSeleksi.59e9b73d.svg",
+    "static/media/style.css": "/smkbp/static/media/header.ceb36eac.svg",
+    "static/media/hero_illustrator.svg": "/smkbp/static/media/hero_illustrator.a1b21337.svg",
+    "static/media/png-elementary-school-primary-education-high-school-school-class-logo-high-school-elementary-school-clipart.png": "/smkbp/static/media/png-elementary-school-primary-education-high-school-school-class-logo-high-school-elementary-school-clipart.6ba9b87f.png",
+    "static/media/user_group_two_color.svg": "/smkbp/static/media/user_group_two_color.d5b4f14d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1eee971.js",
+    "static/js/2.7a0967aa.chunk.js",
+    "static/css/main.beaca61c.chunk.css",
+    "static/js/main.2edec5b1.chunk.js"
+  ]
+}
