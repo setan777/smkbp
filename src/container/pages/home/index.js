@@ -121,7 +121,7 @@ class Home extends Component {
 
               <Card
                 title="Pengumuman"
-                description="Peserta dapat melakukan pengecekan hasil pengumuman pada website maupun melakukan kunjungan ke sekolah untuk melihat hasil apakah dinyatakan loloss dan sesuai dengan syarat guna melanjutkan ke tahap selanjutnya yaitu proses pendaftaran ulang peserta didik baru."
+                description="Peserta dapat melakukan pengecekan hasil pengumuman pada website maupun melakukan kunjungan ke sekolah untuk melihat hasil apakah dinyatakan lolos dan sesuai dengan syarat guna melanjutkan ke tahap selanjutnya yaitu proses pendaftaran ulang peserta didik baru."
                 image={ilustratorPengumuman}
                 alt="Pengumaman"
               />
