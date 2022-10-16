@@ -7,7 +7,7 @@ function App() {
   return (
     <Router>
       <Route path="/smkbp" exact component={Home} />
-      <Route path="/register" component={Register} />
+      <Route path="/wkwk" component={Register} />
     </Router>
   );
 }
